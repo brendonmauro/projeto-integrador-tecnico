@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: def21881051e441c68a9ae83c7121bae
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knightdead01
+    21300002: knightdead02
+    21300004: knightdead03
+    21300006: knightdead04
+    21300008: knightdead05
+    21300010: knightdead06
+    21300012: knightdead07
+    21300014: knightdead08
+    21300016: knightdead09
+    21300018: knightdead10
+    21300020: knightdead11
+    21300022: knightdead12
+    21300024: knightdead13
+    21300026: knightdead14
+    21300028: knightdead15
+    21300030: knightdead16
+    21300032: knightdead17
+    21300034: knightdead18
+    21300036: knightdead19
+    21300038: knightdead20
+    21300040: knightrun01
+    21300042: knightrun02
+    21300044: knightrun03
+    21300046: knightrun04
+    21300048: knightrun05
+    21300050: knightrun06
+    21300052: knightrun07
+    21300054: knightrun08
+    21300056: knightrun09
+    21300058: knightrun10
+    21300060: knightrun11
+    21300062: knightrun12
+    21300064: knightjump01
+    21300066: knightjump02
+    21300068: knightjump03
+    21300070: knightjump04
+    21300072: knightjump05
+    21300074: knightjump06
+    21300076: knightjump07
+    21300078: knightjump08
+    21300080: knightjump09
+    21300082: knightslide01
+    21300084: knightslide02
+    21300086: knightslide03
+    21300088: knightslide04
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knightdead01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead02
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead03
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead04
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead05
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead06
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead07
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead09
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead14
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightdead20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun01
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun03
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun04
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun05
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun06
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun07
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun08
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightrun12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump01
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump02
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump03
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump05
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump06
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump07
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump08
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightjump09
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightslide01
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightslide02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightslide03
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knightslide04
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

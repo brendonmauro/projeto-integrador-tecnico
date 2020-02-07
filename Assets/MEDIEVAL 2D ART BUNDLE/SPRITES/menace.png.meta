@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: e7670ec9a53824d32b6499fbbbd212a0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: squeletonhand0
+    21300002: squeletonhand02
+    21300004: squeletonhand03
+    21300006: squeletonhand04
+    21300008: squeletonhand05
+    21300010: squeletonhand06
+    21300012: squeletonhand07
+    21300014: squeletonhand08
+    21300016: squeletonhand09
+    21300018: squeletonhand10
+    21300020: squeletontomb
+    21300022: menacesmoke
+    21300024: menacerock
+    21300026: menacespikes
+    21300028: menacecannonball
+    21300030: menacespear
+    21300032: menacearrow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: squeletonhand0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand02
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand03
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand05
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand06
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand08
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand09
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletonhand10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: squeletontomb
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menacesmoke
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 373
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menacerock
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menacespikes
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 439
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menacecannonball
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menacespear
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 375
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menacearrow
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 439
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

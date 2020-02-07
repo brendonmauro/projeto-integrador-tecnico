@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: ac46c0e17182b485f89493566753866e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goblinjump01
+    21300002: goblinjump02
+    21300004: goblinjump03
+    21300006: goblinjump04
+    21300008: goblinjump05
+    21300010: goblinjump06
+    21300012: goblinjump07
+    21300014: goblinjump08
+    21300016: goblinjump09
+    21300018: goblinrun01
+    21300020: goblinrun02
+    21300022: goblinrun03
+    21300024: goblinrun04
+    21300026: goblinrun05
+    21300028: goblinrun06
+    21300030: goblinrun07
+    21300032: goblinrun08
+    21300034: goblinrun09
+    21300036: goblinrun10
+    21300038: goblinrun11
+    21300040: goblinrun12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: goblinjump01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 896
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinjump02
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinjump03
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinjump04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinjump05
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinjump06
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinjump07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinjump08
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinjump09
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun02
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun03
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun05
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun06
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun08
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun09
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goblinrun12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

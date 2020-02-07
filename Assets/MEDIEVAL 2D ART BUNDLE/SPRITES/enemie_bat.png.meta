@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: c1920ee6374ff46ceaf4e816fa51b3d0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bat01
+    21300002: bat02
+    21300004: bat03
+    21300006: bat04
+    21300008: bat05
+    21300010: bat06
+    21300012: bat07
+    21300014: bat08
+    21300016: bat09
+    21300018: bat_die01
+    21300020: bat_die02
+    21300022: bat_die03
+    21300024: bat_die04
+    21300026: bat_die05
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bat01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat02
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 191
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat03
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 191
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat05
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 125
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat06
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 125
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat08
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 59
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat09
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 59
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat_die01
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 185
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat_die02
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 113
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat_die03
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 41
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat_die04
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 185
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bat_die05
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 113
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

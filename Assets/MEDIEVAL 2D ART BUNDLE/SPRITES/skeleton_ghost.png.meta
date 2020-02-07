@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 5889a12cd846d4902a3d19d0ffa8c155
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skeletonwalk01
+    21300002: skeletonwalk02
+    21300004: skeletonwalk03
+    21300006: skeletonwalk04
+    21300008: skeletonwalk05
+    21300010: skeletonwalk06
+    21300012: skeletonwalk07
+    21300014: skeletonwalk08
+    21300016: skeletonwalk09
+    21300018: skeletonwalk10
+    21300020: skeletonwalk11
+    21300022: skeletonwalk12
+    21300024: skeletonjump01
+    21300026: skeletonjump02
+    21300028: skeletonjump03
+    21300030: skeletonjump04
+    21300032: skeletonjump05
+    21300034: skeletonjump06
+    21300036: skeletonjump07
+    21300038: skeletonjump08
+    21300040: skeletonjump09
+    21300042: skeletondead01
+    21300044: skeletondead02
+    21300046: skeletondead03
+    21300048: skeletondead04
+    21300050: skeletondead05
+    21300052: skeletondead06
+    21300054: skeletondead07
+    21300056: skeletondead08
+    21300058: skeletondead09
+    21300060: skeletondead10
+    21300062: skeletondead11
+    21300064: skeletondead12
+    21300066: ghostnormal01
+    21300068: ghostnormal02
+    21300070: ghostnormal09
+    21300072: ghostnormal08
+    21300074: ghostnormal07
+    21300076: ghostnormal06
+    21300078: ghostnormal05
+    21300080: ghostnormal04
+    21300082: ghostnormal03
+    21300084: ghostnormal10
+    21300086: ghostdead01
+    21300088: ghostdead02
+    21300090: ghostdead03
+    21300092: ghostdead04
+    21300094: ghostdead05
+    21300096: ghostdead06
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: skeletonwalk01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk02
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk03
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk04
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk05
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk06
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk07
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 895
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk09
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonwalk12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump01
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump02
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 765
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump04
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump05
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump06
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump07
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump08
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletonjump09
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 635
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead02
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead03
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead04
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead05
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead06
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead07
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 505
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead09
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skeletondead12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal01
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal02
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 375
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal09
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal08
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal07
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal06
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal05
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal04
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostnormal10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostdead01
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostdead02
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostdead03
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostdead04
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostdead05
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghostdead06
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 115
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

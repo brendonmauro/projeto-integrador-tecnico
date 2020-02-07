@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 6d257a9feb34a464a929da9c97a72a31
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: floor01
+    21300002: floor02
+    21300004: floor03
+    21300006: floor04
+    21300008: floor_4
+    21300010: floor06
+    21300012: floor07
+    21300014: floor08
+    21300016: floor09
+    21300018: floor10
+    21300020: floor11
+    21300022: floor12
+    21300024: floor13
+    21300026: floor14
+    21300028: floor15
+    21300030: floor16
+    21300032: floor17
+    21300034: floor18
+    21300036: floor19
+    21300038: floor20
+    21300040: floor21
+    21300042: floor22
+    21300044: floor24
+    21300046: floor25
+    21300048: floor26
+    21300050: floor27
+    21300052: floor28
+    21300054: floor29
+    21300056: floor30
+    21300058: floor31
+    21300060: floor32
+    21300062: floor33
+    21300064: floor34
+    21300066: floor35
+    21300068: floor36
+    21300070: floor37
+    21300072: floor38
+    21300074: floor39
+    21300076: floor40
+    21300078: floor41
+    21300080: floor42
+    21300082: floor43
+    21300084: floor44
+    21300086: floor45
+    21300088: floor46
+    21300090: floor47
+    21300092: floor48
+    21300094: floor49
+    21300096: floordecall01
+    21300098: floordecall02
+    21300100: floordecall03
+    21300102: floordecall04
+    21300104: floordecall06
+    21300106: floordecall05
+    21300108: floordecall07
+    21300110: floordecall08
+    21300112: floordecall09
+    21300114: floordecall10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: floor01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor02
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor03
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor04
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor06
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor07
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 895
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor09
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 765
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 765
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 765
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 765
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 765
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor14
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 765
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor21
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 505
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 505
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor27
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 505
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor28
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 505
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor29
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 505
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor33
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor35
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor36
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 245
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 245
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor40
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 245
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor41
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 245
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor42
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 245
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor43
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 245
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor46
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 115
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor47
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 115
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor48
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 115
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor49
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 115
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall01
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 895
+        width: 42
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall02
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 895
+        width: 50
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall03
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 765
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall04
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 635
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall06
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 569
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall05
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 505
+        width: 38
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall07
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 375
+        width: 76
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall08
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 309
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall09
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 180
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floordecall10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

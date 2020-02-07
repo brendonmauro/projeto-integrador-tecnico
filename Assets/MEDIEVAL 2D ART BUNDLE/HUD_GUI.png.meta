@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 41c8f53dfed736f46942cba96c78eea1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button_attack
+    21300002: button_magic
+    21300004: button_jump
+    21300006: life01
+    21300008: lifebar_side
+    21300010: lifebar_middle
+    21300012: lifebar_life
+    21300014: neutralbutton02_side
+    21300016: neutralbutton02_middle
+    21300018: life02
+    21300020: neutral_button01
+    21300022: pad_jostickarea
+    21300024: pad_jostick
+    21300026: pad_arrow
+    21300028: buttonicon_nomusic
+    21300030: buttonicon_levelmenu
+    21300032: buttonicon_play
+    21300034: buttonicon_soundon
+    21300036: buttonicon_soundoff
+    21300038: buttonicon_exti
+    21300040: buttonicon_cancel
+    21300042: buttonicon_pause
+    21300044: buttonicon_retry
+    21300046: buttonicon_musicon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: button_attack
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_magic
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_jump
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: life01
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 455
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lifebar_side
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 447
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lifebar_middle
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 447
+        width: 2
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lifebar_life
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 465
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: neutralbutton02_side
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 318
+        width: 30
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: neutralbutton02_middle
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 318
+        width: 1
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: life02
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: neutral_button01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pad_jostickarea
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pad_jostick
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 271
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pad_arrow
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 281
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_nomusic
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_levelmenu
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 212
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_play
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_soundon
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 156
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_soundoff
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 194
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_exti
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 184
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_cancel
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 185
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_pause
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 200
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_retry
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 193
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonicon_musicon
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 194
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

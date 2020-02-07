@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c2d2a314dff51444ca1c73987a0c51f3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - interactCheck: {instanceID: 0}
+  - HitSound: {fileID: 8300000, guid: cb1f5adcf8eb1bb4f9478fc151c34d0d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

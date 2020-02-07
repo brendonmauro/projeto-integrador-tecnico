@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 6f50caf9cc3ef4a408d93639b3ff5aa9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: decalltree01
+    21300002: decalltree02
+    21300004: decalltree03
+    21300006: decallstatue
+    21300008: decallbrick01
+    21300010: decallbrick02
+    21300012: decallbrick03
+    21300014: decallbrick04
+    21300016: decallbrick05
+    21300018: decallbush01
+    21300020: decallbush02
+    21300022: decallplant01
+    21300024: decallplant02
+    21300026: decallgrass
+    21300028: decallskull
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: decalltree01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decalltree02
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 255
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decalltree03
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 255
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallstatue
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 255
+        width: 128
+        height: 224
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallbrick01
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 459
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallbrick02
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 405
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallbrick03
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 351
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallbrick04
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 297
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallbrick05
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 239
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallbush01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallbush02
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 173
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallplant01
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 219
+        width: 64
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallplant02
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 183
+        width: 64
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallgrass
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 215
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decallskull
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 197
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
